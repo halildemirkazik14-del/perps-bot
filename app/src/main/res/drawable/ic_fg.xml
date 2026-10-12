@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Bir yeşil (long) ve bir kırmızı (short) mum: iki yön de sadece setup -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:strokeColor="#2FBF71" android:strokeWidth="3" android:pathData="M44,30 L44,78" />
+    <path android:fillColor="#2FBF71" android:pathData="M37,40 h14 v28 h-14 z" />
+    <path android:strokeColor="#E5484D" android:strokeWidth="3" android:pathData="M64,34 L64,80" />
+    <path android:fillColor="#E5484D" android:pathData="M57,46 h14 v26 h-14 z" />
+</vector>
